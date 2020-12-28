@@ -1,0 +1,10 @@
+C:\Users\vatan\source\repos\LightOS\LightOS\bin\Release\LightOS.exe.config
+C:\Users\vatan\source\repos\LightOS\LightOS\bin\Release\LightOS.exe
+C:\Users\vatan\source\repos\LightOS\LightOS\bin\Release\LightOS.pdb
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.csprojAssemblyReference.cache
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.LightOS.resources
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.Properties.Resources.resources
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.csproj.GenerateResource.cache
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.csproj.CoreCompileInputs.cache
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.exe
+C:\Users\vatan\source\repos\LightOS\LightOS\obj\Release\LightOS.pdb
